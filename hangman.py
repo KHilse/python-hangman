@@ -29,7 +29,11 @@ phrases = [
     "down a rabbit hole",
     "blew the stack",
     "lambda function",
-    "natural selection"
+    "natural selection",
+    "military intelligence",
+    "government ethics",
+    "impeachment inquiry",
+    "general relativity"
 ]
 current_phrase = random.choice(phrases)
 correct_guesses = ""
