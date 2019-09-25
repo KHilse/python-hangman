@@ -97,3 +97,4 @@ while (game_over == False):
     if correct_guesses == current_phrase:
         print("YOU WON!")
         game_over = True
+    turn_number += 1
